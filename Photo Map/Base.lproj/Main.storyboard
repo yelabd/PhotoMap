@@ -27,8 +27,9 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </mapView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nVj-fP-2FJ">
-                                <rect key="frame" x="155" y="595" width="64" height="64"/>
+                                <rect key="frame" x="145" y="574" width="85" height="85"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" image="camera"/>
                                 <connections>
                                     <action selector="onTap:" destination="ghP-Ww-KKQ" eventType="touchUpInside" id="hs2-4d-zTv"/>
